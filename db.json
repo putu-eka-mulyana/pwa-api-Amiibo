@@ -1,4 +1,4 @@
-"amiibo": [
+{"amiibo": [
 {
 "amiiboSeries": "Super Smash Bros.",
 "character": "Mario",
@@ -207,3 +207,4 @@
 "tail": "03720102",
 "type": "Figure"
 }]
+}
